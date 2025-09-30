@@ -38,6 +38,7 @@ CREATE TABLE bank (
 ```
 
 💡 Business Problems & Solutions
+
 1️⃣ How many customers are married and have a tertiary education?
 ```sql
 SELECT 
