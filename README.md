@@ -1,4 +1,5 @@
 📊 Bank Marketing SQL Project
+
 📌 Overview
 
 This project explores a bank marketing dataset using SQL. The goal is to analyze customer demographics, financial behaviors, and campaign outcomes to support better marketing strategies, improve loan targeting, and optimize customer segmentation.
